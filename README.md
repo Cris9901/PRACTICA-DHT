@@ -44,4 +44,16 @@ void loop() {
 ![](https://github.com/Cris9901/PRACTICA-DHT/blob/main/IMAGEN%201.jpg)
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
+![](https://github.com/Cris9901/PRACTICA-DHT/blob/main/IMAGEN%202.jpg)
+
+### Instrucciónes de operación
+
+1. Iniciar simulador.
+2. Visualizar los datos en el monitor serial.
+3. Colocar la temperatura y humedad dando *doble click* al sensor **DHT22** 
+
+## Resultados
+
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen.
+
 
