@@ -44,7 +44,7 @@ void loop() {
 ![](https://github.com/Cris9901/PRACTICA-DHT/blob/main/IMAGEN%201.jpg)
 
 3. Hacer la conexion de **DHT22** con la **ESP32** como se muestra en la siguente imagen.
-![](https://github.com/Cris9901/PRACTICA-DHT/blob/main/IMAGEN%202.jpg)
+![](https://github.com/Cris9901/PRACTICA-DHT/blob/main/IMAGEN%203%20CORREGIDA.jpg)
 
 ### Instrucciónes de operación
 
